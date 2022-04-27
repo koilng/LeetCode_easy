@@ -6,6 +6,9 @@
       <sourceFolder url="file://$MODULE_DIR$/20 Valid Parentheses" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/53 Maximum Subarray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/58 Length of Last Word" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/69 Sqrt(x)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/88 Merge Sorted Array" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
